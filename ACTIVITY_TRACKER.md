@@ -1,41 +1,22 @@
-# 📋 Activity Tracker & Workflow Log
+# 📚 Project Learning Notes & Activity Log
 
-This file maintains a live, chronological record of all activities, prompts, decisions, milestones, and Git sync points in this project.
-
----
-
-## 📌 Project Overview
-- **Repository Name**: `GenAI_Project`
-- **Owner**: `aniket dede` (<aniketdede12@gmail.com>)
-- **Initialized**: `2026-09-05`
-- **Branch**: `main`
+> **Repository**: `GenAI_Project`  
+> **Author**: `aniket dede`  
+> **Remote**: [github.com/aniketdede/GenAI_Project](https://github.com/aniketdede/GenAI_Project)
 
 ---
 
-## 📜 Activity Log
-
-| # | Timestamp (ISO / Local) | Phase / Category | Action / Activity Description | Status | Git Sync / Push Reminders |
-|---|---|---|---|---|---|
-| 1 | 2026-09-05 23:04:47 | Setup | Initialized local Git repository (`main` branch) | ✅ Completed | Initial commit created |
-| 2 | 2026-09-05 23:05:00 | Setup | Created `ACTIVITY_TRACKER.md` | ✅ Completed | Committed to local `main` |
-| 3 | 2026-09-05 23:08:07 | GitHub Remote | Connected remote origin `https://github.com/aniketdede/GenAI_Project.git` & pushed `main` | ✅ Completed | Successfully pushed to GitHub `origin/main` |
-| 4 | 2026-09-05 23:09:23 | Cleanup | Removed unnecessary files (`README.md`, `.gitignore`) per user instruction | ✅ Completed | Successfully pushed to GitHub `origin/main` |
+## 🎯 Purpose
+This document serves as high-quality learning notes and a comprehensive record of all concepts, experiments, code implementations, and manual activities performed throughout this GenAI project.
 
 ---
 
-## 🔄 Workflow Milestones & Git Checkpoints
+## 📝 Activity & Learning Log
 
-- [x] **Milestone 0: Project Initialization**
-  - Git repository initialized.
-  - Activity tracking protocol established.
-- [x] **Milestone 1: GitHub Remote Setup**
-  - Remote repository created on GitHub.
-  - Remote origin connected and initial commit pushed.
-- [ ] **Milestone 2: Project Development & Expansion**
-  - Track subsequent user instructions and features.
+*Logs will be recorded here as you work and learn.*
 
 ---
 
-## 📌 Rules & Commit Protocol
-1. **Continuous Tracking**: Every instruction, feature, refactoring step, or bugfix will be appended to this log with status and notes.
-2. **Push Reminders**: A push notification will be triggered upon completing each logical unit of work.
+## 💡 Concepts & Key Takeaways
+
+*Detailed explanations, architectures, and theoretical insights will be compiled here.*
