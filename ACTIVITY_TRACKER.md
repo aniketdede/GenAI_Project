@@ -17,8 +17,9 @@ This file maintains a live, chronological record of all activities, prompts, dec
 | # | Timestamp (ISO / Local) | Phase / Category | Action / Activity Description | Status | Git Sync / Push Reminders |
 |---|---|---|---|---|---|
 | 1 | 2026-09-05 23:04:47 | Setup | Initialized local Git repository (`main` branch) | ✅ Completed | Initial commit created |
-| 2 | 2026-09-05 23:05:00 | Setup | Created `ACTIVITY_TRACKER.md`, `.gitignore`, and `README.md` | ✅ Completed | Committed to local `main` |
+| 2 | 2026-09-05 23:05:00 | Setup | Created `ACTIVITY_TRACKER.md` | ✅ Completed | Committed to local `main` |
 | 3 | 2026-09-05 23:08:07 | GitHub Remote | Connected remote origin `https://github.com/aniketdede/GenAI_Project.git` & pushed `main` | ✅ Completed | Successfully pushed to GitHub `origin/main` |
+| 4 | 2026-09-05 23:09:23 | Cleanup | Removed unnecessary files (`README.md`, `.gitignore`) per user instruction | ✅ Completed | Ready to push cleanup to remote |
 
 ---
 
