@@ -16,8 +16,9 @@ This file maintains a live, chronological record of all activities, prompts, dec
 
 | # | Timestamp (ISO / Local) | Phase / Category | Action / Activity Description | Status | Git Sync / Push Reminders |
 |---|---|---|---|---|---|
-| 1 | 2026-09-05 23:04:47 | Setup | Initialized local Git repository (`main` branch) | ✅ Completed | Pending initial remote push |
-| 2 | 2026-09-05 23:05:00 | Setup | Created `ACTIVITY_TRACKER.md`, `.gitignore`, and `README.md` | ✅ Completed | Ready for initial commit & push |
+| 1 | 2026-09-05 23:04:47 | Setup | Initialized local Git repository (`main` branch) | ✅ Completed | Initial commit created |
+| 2 | 2026-09-05 23:05:00 | Setup | Created `ACTIVITY_TRACKER.md`, `.gitignore`, and `README.md` | ✅ Completed | Committed to local `main` |
+| 3 | 2026-09-05 23:08:07 | GitHub Remote | Connected remote origin `https://github.com/aniketdede/GenAI_Project.git` & pushed `main` | ✅ Completed | Successfully pushed to GitHub `origin/main` |
 
 ---
 
@@ -26,7 +27,7 @@ This file maintains a live, chronological record of all activities, prompts, dec
 - [x] **Milestone 0: Project Initialization**
   - Git repository initialized.
   - Activity tracking protocol established.
-- [ ] **Milestone 1: GitHub Remote Setup**
+- [x] **Milestone 1: GitHub Remote Setup**
   - Remote repository created on GitHub.
   - Remote origin connected and initial commit pushed.
 - [ ] **Milestone 2: Project Development & Expansion**
